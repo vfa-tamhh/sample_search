@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{982FDD10-DA85-F3E7-4A6F-52025524C95B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NCMB/Script/NamespaceDoc.cs">
+    <Files>
+      <File FileName="Assets/Callme.cs" Line="66" Column="1" />
+      <File FileName="Assets/NCMB/Script/NamespaceDoc.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnitySearch" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Editor" selected="True" />
+              <Node name="NCMB" selected="True" />
+              <Node name="Plugins" selected="True" />
+              <Node name="Prefabs" selected="True" />
+              <Node name="Scenes" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0045341d-9b69-49c2-afa5-df1f09514fbc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
